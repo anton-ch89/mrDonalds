@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "orders": {
+      ".write": true
+    },
+    "menu": {
+      ".read": true
+    }
+  }
+}
